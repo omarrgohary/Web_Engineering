@@ -112,9 +112,20 @@ This protects authentication tokens from XSS (Cross-Site Scripting) attacks, mak
 ### Students
 
 * GET /api/Students
+* <img width="1870" height="903" alt="image" src="https://github.com/user-attachments/assets/6d686b10-1ce8-4ad4-8f7b-8fe7b2df68a9" />
+
+* GET /api/Students
+<img width="1851" height="846" alt="image" src="https://github.com/user-attachments/assets/e5d8cddb-51b8-4b06-a259-2c5461299c70" />
+
 * POST /api/Students
+* <img width="1882" height="898" alt="image" src="https://github.com/user-attachments/assets/4369239a-572b-4ea8-a9c6-b76daab17751" />
+
 * PUT /api/Students/{id}
+* <img width="1796" height="776" alt="image" src="https://github.com/user-attachments/assets/bc55d9d8-81c9-43ba-819e-8dbd459f9b2a" />
+
 * DELETE /api/Students/{id}
+* <img width="1840" height="876" alt="image" src="https://github.com/user-attachments/assets/aaf4a73f-2d9a-4609-9ea2-8462097fe417" />
+
 
 ### Courses
 
