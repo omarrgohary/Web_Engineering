@@ -130,16 +130,35 @@ This protects authentication tokens from XSS (Cross-Site Scripting) attacks, mak
 
 
 ### Courses
-
 * GET /api/Courses
+<img width="1886" height="891" alt="image" src="https://github.com/user-attachments/assets/c3e66440-b0ee-4290-85a7-bf47bd8bff4e" />
+
 * POST /api/Courses
+
+* GET /api/Courses/{id}
+* PUT /api/Courses/{id}
+* DELETE /api/Courses/{id}
 
 ### Instructors
 
 * GET /api/Instructors
+<img width="1876" height="786" alt="image" src="https://github.com/user-attachments/assets/8b429f9e-f0b4-41e2-99e1-f32ee0389fb9" />
+
 * POST /api/Instructors
+<img width="1848" height="861" alt="image" src="https://github.com/user-attachments/assets/7f8c6fca-392c-4b37-ab97-0c92f2f2acae" />
+
+* GET /api/Instructors/{id}
+<img width="1840" height="737" alt="image" src="https://github.com/user-attachments/assets/63fb40c0-9d30-451d-8351-4717965b3315" />
+
+* PUT/api/Instructors/{id}
+<img width="1840" height="822" alt="image" src="https://github.com/user-attachments/assets/889d6693-9c4d-4902-8a99-658ded6dc6dc" />
+
+* DELETE /api/Instructors/{id}
+<img width="1896" height="888" alt="image" src="https://github.com/user-attachments/assets/e7fbe686-379b-48c6-a5d8-0c38e131fb17" />
+
 
 ### Enrollments
 
 * GET /api/Enrollments
 * POST /api/Enrollments
+* DELETE /api/Enrollments/{studentId}/{courseId}
