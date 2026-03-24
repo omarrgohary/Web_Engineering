@@ -83,7 +83,8 @@ Used to hash passwords securely before storing them.
 
   ```
   Authorization: Bearer TOKEN
-  ```
+  <img width="917" height="420" alt="image" src="https://github.com/user-attachments/assets/65a4f227-b6d6-4a30-bcff-de4e8d26f57c" />
+
 
 ---
 
@@ -114,7 +115,7 @@ This protects authentication tokens from XSS (Cross-Site Scripting) attacks, mak
 * GET /api/Students
 * <img width="1870" height="903" alt="image" src="https://github.com/user-attachments/assets/6d686b10-1ce8-4ad4-8f7b-8fe7b2df68a9" />
 
-* GET /api/Students
+* GET /api/Students/{id}
 <img width="1851" height="846" alt="image" src="https://github.com/user-attachments/assets/e5d8cddb-51b8-4b06-a259-2c5461299c70" />
 
 * POST /api/Students
