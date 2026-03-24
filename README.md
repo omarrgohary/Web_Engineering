@@ -105,6 +105,7 @@ This protects authentication tokens from XSS (Cross-Site Scripting) attacks, mak
 ### Auth
 
 * POST /api/Auth/login
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/969e6eb9-db79-4489-8445-d6a997e18daa" />
 
 ### Students
 
