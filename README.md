@@ -134,10 +134,17 @@ This protects authentication tokens from XSS (Cross-Site Scripting) attacks, mak
 <img width="1886" height="891" alt="image" src="https://github.com/user-attachments/assets/c3e66440-b0ee-4290-85a7-bf47bd8bff4e" />
 
 * POST /api/Courses
+<img width="1871" height="902" alt="image" src="https://github.com/user-attachments/assets/9f332538-206d-4de1-aaf6-310a525c31eb" />
 
 * GET /api/Courses/{id}
+<img width="1885" height="878" alt="image" src="https://github.com/user-attachments/assets/33789233-1d02-4ee7-819c-21d9ed91cf51" />
+
 * PUT /api/Courses/{id}
+<img width="1795" height="767" alt="image" src="https://github.com/user-attachments/assets/ffcd57a9-2509-4002-bdd1-47e6981487df" />
+
 * DELETE /api/Courses/{id}
+<img width="1841" height="875" alt="image" src="https://github.com/user-attachments/assets/9c24ebb0-3a13-4dac-a8e0-dc908769986a" />
+
 
 ### Instructors
 
@@ -160,5 +167,11 @@ This protects authentication tokens from XSS (Cross-Site Scripting) attacks, mak
 ### Enrollments
 
 * GET /api/Enrollments
+<img width="1850" height="891" alt="image" src="https://github.com/user-attachments/assets/cb48fb50-fab8-4c2c-a6e8-6b33362c314f" />
+
 * POST /api/Enrollments
+<img width="1852" height="877" alt="image" src="https://github.com/user-attachments/assets/be94211f-6486-4e18-8af7-eb6adb61f42a" />
+
 * DELETE /api/Enrollments/{studentId}/{courseId}
+<img width="1863" height="727" alt="image" src="https://github.com/user-attachments/assets/89d2bcf9-b6d3-4326-833e-4db1aa6641fe" />
+
