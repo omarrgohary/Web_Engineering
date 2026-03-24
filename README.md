@@ -83,7 +83,8 @@ Used to hash passwords securely before storing them.
 
   ```
   Authorization: Bearer TOKEN
-  <img width="917" height="420" alt="image" src="https://github.com/user-attachments/assets/65a4f227-b6d6-4a30-bcff-de4e8d26f57c" />
+<img width="917" height="420" alt="image" src="https://github.com/user-attachments/assets/65a4f227-b6d6-4a30-bcff-de4e8d26f57c" />
+
 
 
 ---
